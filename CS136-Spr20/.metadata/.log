@@ -1,0 +1,1468 @@
+!SESSION 2020-01-16 18:58:28.665 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-01-16 19:23:37.805
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-01-20 21:19:00.103 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-01-20 21:19:16.894
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-01-21 14:19:12.968 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-01-21 14:19:38.628
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-01-22 14:31:08.466 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-01-22 14:31:28.977
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-01-23 15:15:28.792 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-01-23 15:15:53.708
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-01-27 19:02:04.958 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-01-27 19:02:26.063
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-01-28 13:38:10.099 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-01-28 13:39:01.152
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-01-28 14:16:44.969 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-01-28 14:17:00.627
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-01-28 16:05:19.173 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-01-28 16:05:39.852
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-01-30 14:12:58.963 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-01-30 14:14:00.008
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-02-03 20:22:38.429 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-03 20:23:00.976
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-02-04 15:00:31.959 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-04 15:00:51.178
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-02-05 14:07:02.521 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-05 14:07:22.116
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-02-05 16:19:58.627 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-05 16:20:11.778
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:21:49.636
+!MESSAGE Could not transfer metadata org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:21:49.640
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:21:49.679
+!MESSAGE Could not transfer metadata org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:21:49.684
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:21:51.914
+!MESSAGE Could not transfer metadata com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:21:51.919
+!MESSAGE Could not transfer metadata com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:21:51.922
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:21:51.925
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:21:53.611
+!MESSAGE Could not transfer metadata com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:21:53.616
+!MESSAGE Could not transfer metadata com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:21:53.621
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:21:53.624
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:21:55.229
+!MESSAGE Could not transfer metadata com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:21:55.237
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:21:55.242
+!MESSAGE Could not transfer metadata com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:21:55.247
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:02.395
+!MESSAGE Could not transfer metadata com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:02.400
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:02.445
+!MESSAGE Could not transfer metadata com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:02.450
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:04.052
+!MESSAGE Could not transfer metadata org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13.2-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:04.057
+!MESSAGE Could not transfer metadata org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13.2-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:04.060
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13.2-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:04.062
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13.2-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.387
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.394
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.406
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.414
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.424
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.432
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.441
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.460
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.482
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.492
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.500
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13.2-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.506
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13.2-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.781
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.797
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.819
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.830
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.839
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.847
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.857
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.864
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.886
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.893
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.901
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13.2-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-05 16:22:47.908
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13.2-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:22:49.232
+!MESSAGE Could not download sources for com.destroystokyo.paper:paper:1.13.2-R0.1-SNAPSHOT
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.destroystokyo.paper:paper:jar:sources:1.13.2-R0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.destroystokyo.paper:paper:jar:sources:1.13.2-R0.1-SNAPSHOT
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:22:49.232
+!MESSAGE Could not resolve artifact com.destroystokyo.paper:paper:jar:sources:1.13.2-R0.1-SNAPSHOT
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:22:49.232
+!MESSAGE Missing com.destroystokyo.paper:paper:jar:sources:1.13.2-R0.1-SNAPSHOT
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:22:52.423
+!MESSAGE Could not download sources for io.github.jorelali:commandapi:1.8.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.github.jorelali:commandapi:jar:sources:1.8.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing io.github.jorelali:commandapi:jar:sources:1.8.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:22:52.423
+!MESSAGE Could not resolve artifact io.github.jorelali:commandapi:jar:sources:1.8.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:22:52.423
+!MESSAGE Missing io.github.jorelali:commandapi:jar:sources:1.8.1
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:22:53.877
+!MESSAGE Could not download sources for org.spigotmc:spigot-api:1.13.2-R0.1-SNAPSHOT
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.spigotmc:spigot-api:jar:sources:1.13.2-R0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.spigotmc:spigot-api:jar:sources:1.13.2-R0.1-SNAPSHOT
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:22:53.878
+!MESSAGE Could not resolve artifact org.spigotmc:spigot-api:jar:sources:1.13.2-R0.1-SNAPSHOT
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:22:53.878
+!MESSAGE Missing org.spigotmc:spigot-api:jar:sources:1.13.2-R0.1-SNAPSHOT
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:05.194
+!MESSAGE Could not download sources for net.md-5:bungeecord-chat:1.13-SNAPSHOT
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact net.md-5:bungeecord-chat:jar:sources:1.13-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing net.md-5:bungeecord-chat:jar:sources:1.13-SNAPSHOT
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:05.194
+!MESSAGE Could not resolve artifact net.md-5:bungeecord-chat:jar:sources:1.13-SNAPSHOT
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:05.194
+!MESSAGE Missing net.md-5:bungeecord-chat:jar:sources:1.13-SNAPSHOT
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:15.207
+!MESSAGE Could not download sources for me.clip:placeholderapi:2.8.7
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact me.clip:placeholderapi:jar:sources:2.8.7
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing me.clip:placeholderapi:jar:sources:2.8.7
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:15.207
+!MESSAGE Could not resolve artifact me.clip:placeholderapi:jar:sources:2.8.7
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:15.207
+!MESSAGE Missing me.clip:placeholderapi:jar:sources:2.8.7
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:16.819
+!MESSAGE Could not download sources for de.jeffclan:JeffChestSort:3.2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact de.jeffclan:JeffChestSort:jar:sources:3.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing de.jeffclan:JeffChestSort:jar:sources:3.2
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:16.819
+!MESSAGE Could not resolve artifact de.jeffclan:JeffChestSort:jar:sources:3.2
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:16.819
+!MESSAGE Missing de.jeffclan:JeffChestSort:jar:sources:3.2
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:23.285
+!MESSAGE Could not download sources for net.coreprotect:coreprotect:2.15.0
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact net.coreprotect:coreprotect:jar:sources:2.15.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing net.coreprotect:coreprotect:jar:sources:2.15.0
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:23.286
+!MESSAGE Could not resolve artifact net.coreprotect:coreprotect:jar:sources:2.15.0
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:23.286
+!MESSAGE Missing net.coreprotect:coreprotect:jar:sources:2.15.0
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:24.545
+!MESSAGE Could not download sources for org.bukkit:bukkit:1.13-R0.1-SNAPSHOT
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.bukkit:bukkit:jar:sources:1.13-R0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.bukkit:bukkit:jar:sources:1.13-R0.1-SNAPSHOT
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:24.545
+!MESSAGE Could not resolve artifact org.bukkit:bukkit:jar:sources:1.13-R0.1-SNAPSHOT
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:24.545
+!MESSAGE Missing org.bukkit:bukkit:jar:sources:1.13-R0.1-SNAPSHOT
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:25.743
+!MESSAGE Could not download sources for com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sk89q.worldedit:worldedit-bukkit:jar:sources:7.0.0-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.sk89q.worldedit:worldedit-bukkit:jar:sources:7.0.0-SNAPSHOT
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:25.743
+!MESSAGE Could not resolve artifact com.sk89q.worldedit:worldedit-bukkit:jar:sources:7.0.0-SNAPSHOT
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:25.743
+!MESSAGE Missing com.sk89q.worldedit:worldedit-bukkit:jar:sources:7.0.0-SNAPSHOT
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:26.841
+!MESSAGE Could not download sources for com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sk89q.worldedit:worldedit-core:jar:sources:7.0.0-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.sk89q.worldedit:worldedit-core:jar:sources:7.0.0-SNAPSHOT
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:26.841
+!MESSAGE Could not resolve artifact com.sk89q.worldedit:worldedit-core:jar:sources:7.0.0-SNAPSHOT
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:26.841
+!MESSAGE Missing com.sk89q.worldedit:worldedit-core:jar:sources:7.0.0-SNAPSHOT
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:28.235
+!MESSAGE Could not download sources for com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sk89q.worldedit.worldedit-libs:core:jar:sources:7.0.0-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.sk89q.worldedit.worldedit-libs:core:jar:sources:7.0.0-SNAPSHOT
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:28.236
+!MESSAGE Could not resolve artifact com.sk89q.worldedit.worldedit-libs:core:jar:sources:7.0.0-SNAPSHOT
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:28.236
+!MESSAGE Missing com.sk89q.worldedit.worldedit-libs:core:jar:sources:7.0.0-SNAPSHOT
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:34.958
+!MESSAGE Could not download sources for com.google.code.findbugs:jsr305:1.3.9
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.code.findbugs:jsr305:jar:sources:1.3.9
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.google.code.findbugs:jsr305:jar:sources:1.3.9
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:34.958
+!MESSAGE Could not resolve artifact com.google.code.findbugs:jsr305:jar:sources:1.3.9
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:34.958
+!MESSAGE Missing com.google.code.findbugs:jsr305:jar:sources:1.3.9
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:38.786
+!MESSAGE Could not download sources for com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sk89q.worldedit.worldedit-libs:bukkit:jar:sources:7.0.0-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.sk89q.worldedit.worldedit-libs:bukkit:jar:sources:7.0.0-SNAPSHOT
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:38.787
+!MESSAGE Could not resolve artifact com.sk89q.worldedit.worldedit-libs:bukkit:jar:sources:7.0.0-SNAPSHOT
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:38.787
+!MESSAGE Missing com.sk89q.worldedit.worldedit-libs:bukkit:jar:sources:7.0.0-SNAPSHOT
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:40.066
+!MESSAGE Could not download sources for io.papermc:paperlib:1.0.2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.papermc:paperlib:jar:sources:1.0.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing io.papermc:paperlib:jar:sources:1.0.2
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:40.067
+!MESSAGE Could not resolve artifact io.papermc:paperlib:jar:sources:1.0.2
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:40.067
+!MESSAGE Missing io.papermc:paperlib:jar:sources:1.0.2
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:43.425
+!MESSAGE Could not download sources for org.bstats:bstats-bukkit:1.4
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.bstats:bstats-bukkit:jar:sources:1.4
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.bstats:bstats-bukkit:jar:sources:1.4
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:43.425
+!MESSAGE Could not resolve artifact org.bstats:bstats-bukkit:jar:sources:1.4
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:43.425
+!MESSAGE Missing org.bstats:bstats-bukkit:jar:sources:1.4
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:44.398
+!MESSAGE Could not download javadoc for com.destroystokyo.paper:paper:1.13.2-R0.1-SNAPSHOT
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.destroystokyo.paper:paper:jar:javadoc:1.13.2-R0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.destroystokyo.paper:paper:jar:javadoc:1.13.2-R0.1-SNAPSHOT
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:44.398
+!MESSAGE Could not resolve artifact com.destroystokyo.paper:paper:jar:javadoc:1.13.2-R0.1-SNAPSHOT
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:44.398
+!MESSAGE Missing com.destroystokyo.paper:paper:jar:javadoc:1.13.2-R0.1-SNAPSHOT
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:45.767
+!MESSAGE Could not download javadoc for io.github.jorelali:commandapi:1.8.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.github.jorelali:commandapi:jar:javadoc:1.8.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing io.github.jorelali:commandapi:jar:javadoc:1.8.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:45.767
+!MESSAGE Could not resolve artifact io.github.jorelali:commandapi:jar:javadoc:1.8.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:45.767
+!MESSAGE Missing io.github.jorelali:commandapi:jar:javadoc:1.8.1
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:46.866
+!MESSAGE Could not download javadoc for org.spigotmc:spigot-api:1.13.2-R0.1-SNAPSHOT
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.spigotmc:spigot-api:jar:javadoc:1.13.2-R0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.spigotmc:spigot-api:jar:javadoc:1.13.2-R0.1-SNAPSHOT
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:46.866
+!MESSAGE Could not resolve artifact org.spigotmc:spigot-api:jar:javadoc:1.13.2-R0.1-SNAPSHOT
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:46.866
+!MESSAGE Missing org.spigotmc:spigot-api:jar:javadoc:1.13.2-R0.1-SNAPSHOT
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:47.851
+!MESSAGE Could not download javadoc for net.md-5:bungeecord-chat:1.13-SNAPSHOT
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact net.md-5:bungeecord-chat:jar:javadoc:1.13-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing net.md-5:bungeecord-chat:jar:javadoc:1.13-SNAPSHOT
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:47.851
+!MESSAGE Could not resolve artifact net.md-5:bungeecord-chat:jar:javadoc:1.13-SNAPSHOT
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:47.851
+!MESSAGE Missing net.md-5:bungeecord-chat:jar:javadoc:1.13-SNAPSHOT
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:49.295
+!MESSAGE Could not download javadoc for me.clip:placeholderapi:2.8.7
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact me.clip:placeholderapi:jar:javadoc:2.8.7
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing me.clip:placeholderapi:jar:javadoc:2.8.7
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:49.301
+!MESSAGE Could not resolve artifact me.clip:placeholderapi:jar:javadoc:2.8.7
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:49.301
+!MESSAGE Missing me.clip:placeholderapi:jar:javadoc:2.8.7
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:50.596
+!MESSAGE Could not download javadoc for de.jeffclan:JeffChestSort:3.2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact de.jeffclan:JeffChestSort:jar:javadoc:3.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing de.jeffclan:JeffChestSort:jar:javadoc:3.2
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:50.596
+!MESSAGE Could not resolve artifact de.jeffclan:JeffChestSort:jar:javadoc:3.2
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:50.596
+!MESSAGE Missing de.jeffclan:JeffChestSort:jar:javadoc:3.2
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:52.036
+!MESSAGE Could not download javadoc for net.coreprotect:coreprotect:2.15.0
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact net.coreprotect:coreprotect:jar:javadoc:2.15.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing net.coreprotect:coreprotect:jar:javadoc:2.15.0
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:52.036
+!MESSAGE Could not resolve artifact net.coreprotect:coreprotect:jar:javadoc:2.15.0
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:52.036
+!MESSAGE Missing net.coreprotect:coreprotect:jar:javadoc:2.15.0
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:53.192
+!MESSAGE Could not download javadoc for org.bukkit:bukkit:1.13-R0.1-SNAPSHOT
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.bukkit:bukkit:jar:javadoc:1.13-R0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.bukkit:bukkit:jar:javadoc:1.13-R0.1-SNAPSHOT
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:53.192
+!MESSAGE Could not resolve artifact org.bukkit:bukkit:jar:javadoc:1.13-R0.1-SNAPSHOT
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:53.192
+!MESSAGE Missing org.bukkit:bukkit:jar:javadoc:1.13-R0.1-SNAPSHOT
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:54.287
+!MESSAGE Could not download javadoc for com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sk89q.worldedit:worldedit-bukkit:jar:javadoc:7.0.0-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.sk89q.worldedit:worldedit-bukkit:jar:javadoc:7.0.0-SNAPSHOT
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:54.287
+!MESSAGE Could not resolve artifact com.sk89q.worldedit:worldedit-bukkit:jar:javadoc:7.0.0-SNAPSHOT
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:54.287
+!MESSAGE Missing com.sk89q.worldedit:worldedit-bukkit:jar:javadoc:7.0.0-SNAPSHOT
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:55.381
+!MESSAGE Could not download javadoc for com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sk89q.worldedit:worldedit-core:jar:javadoc:7.0.0-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.sk89q.worldedit:worldedit-core:jar:javadoc:7.0.0-SNAPSHOT
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:55.381
+!MESSAGE Could not resolve artifact com.sk89q.worldedit:worldedit-core:jar:javadoc:7.0.0-SNAPSHOT
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:55.381
+!MESSAGE Missing com.sk89q.worldedit:worldedit-core:jar:javadoc:7.0.0-SNAPSHOT
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:56.733
+!MESSAGE Could not download javadoc for com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sk89q.worldedit.worldedit-libs:core:jar:javadoc:7.0.0-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.sk89q.worldedit.worldedit-libs:core:jar:javadoc:7.0.0-SNAPSHOT
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:56.733
+!MESSAGE Could not resolve artifact com.sk89q.worldedit.worldedit-libs:core:jar:javadoc:7.0.0-SNAPSHOT
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:56.733
+!MESSAGE Missing com.sk89q.worldedit.worldedit-libs:core:jar:javadoc:7.0.0-SNAPSHOT
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:57.881
+!MESSAGE Could not download javadoc for com.google.code.findbugs:jsr305:1.3.9
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.code.findbugs:jsr305:jar:javadoc:1.3.9
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.google.code.findbugs:jsr305:jar:javadoc:1.3.9
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:57.881
+!MESSAGE Could not resolve artifact com.google.code.findbugs:jsr305:jar:javadoc:1.3.9
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:57.881
+!MESSAGE Missing com.google.code.findbugs:jsr305:jar:javadoc:1.3.9
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:23:58.856
+!MESSAGE Could not download javadoc for com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sk89q.worldedit.worldedit-libs:bukkit:jar:javadoc:7.0.0-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.sk89q.worldedit.worldedit-libs:bukkit:jar:javadoc:7.0.0-SNAPSHOT
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:58.856
+!MESSAGE Could not resolve artifact com.sk89q.worldedit.worldedit-libs:bukkit:jar:javadoc:7.0.0-SNAPSHOT
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:23:58.856
+!MESSAGE Missing com.sk89q.worldedit.worldedit-libs:bukkit:jar:javadoc:7.0.0-SNAPSHOT
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:24:00.060
+!MESSAGE Could not download javadoc for io.papermc:paperlib:1.0.2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.papermc:paperlib:jar:javadoc:1.0.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing io.papermc:paperlib:jar:javadoc:1.0.2
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:24:00.060
+!MESSAGE Could not resolve artifact io.papermc:paperlib:jar:javadoc:1.0.2
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:24:00.060
+!MESSAGE Missing io.papermc:paperlib:jar:javadoc:1.0.2
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-02-05 16:24:01.362
+!MESSAGE Could not download javadoc for org.bstats:bstats-bukkit:1.4
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.bstats:bstats-bukkit:jar:javadoc:1.4
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.bstats:bstats-bukkit:jar:javadoc:1.4
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-02-05 16:24:01.362
+!MESSAGE Could not resolve artifact org.bstats:bstats-bukkit:jar:javadoc:1.4
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-02-05 16:24:01.362
+!MESSAGE Missing org.bstats:bstats-bukkit:jar:javadoc:1.4
+!SESSION 2020-02-06 08:55:16.056 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-06 08:55:41.253
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-02-06 12:26:34.995 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-06 12:26:56.638
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-02-25 08:47:36.566 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-25 08:47:58.084
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-02-26 11:20:15.405 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-26 11:20:37.907
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-26 11:22:37.658
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-26 11:22:37.676
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-26 11:22:37.726
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-26 11:22:37.742
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-26 11:22:37.776
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-26 11:22:37.790
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-26 11:22:37.821
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-26 11:22:37.834
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-26 11:22:37.963
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-26 11:22:37.980
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-26 11:22:38.009
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13.2-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-26 11:22:38.022
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13.2-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+!SESSION 2020-02-27 14:49:32.481 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-27 14:49:52.231
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-03-03 14:12:56.279 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-03-03 14:13:34.400
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-03-04 15:15:40.352 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-03-04 15:16:00.776
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-03-05 14:24:40.462 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-03-05 14:25:06.499
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-03-10 14:14:36.416 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-03-10 14:15:19.616
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-03-23 15:08:42.463 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-03-23 15:09:13.943
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-03-23 15:21:13.071
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [DEV [in TwoDimArrayClass [in [Working copy] TwoDimArrayClass.java [in package_8 [in src [in Project_8]]]]] does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:614)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.SourceRefElement.getSourceRange(SourceRefElement.java:233)
+	at org.eclipse.jdt.internal.core.Member.getJavadocRange(Member.java:301)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContentFromSource(JavadocContentAccess2.java:662)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.infoviews.JavadocView.getJavadocHtml(JavadocView.java:1109)
+	at org.eclipse.jdt.internal.ui.infoviews.JavadocView.computeInput(JavadocView.java:894)
+	at org.eclipse.jdt.internal.ui.infoviews.AbstractInfoView$2.run(AbstractInfoView.java:761)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2020-03-23 15:21:13.076
+!MESSAGE DEV [in TwoDimArrayClass [in [Working copy] TwoDimArrayClass.java [in package_8 [in src [in Project_8]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-03-23 15:21:13.078
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [DEFAU [in TwoDimArrayClass [in [Working copy] TwoDimArrayClass.java [in package_8 [in src [in Project_8]]]]] does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:614)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.SourceRefElement.getSourceRange(SourceRefElement.java:233)
+	at org.eclipse.jdt.internal.core.Member.getJavadocRange(Member.java:301)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContentFromSource(JavadocContentAccess2.java:662)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.infoviews.JavadocView.getJavadocHtml(JavadocView.java:1109)
+	at org.eclipse.jdt.internal.ui.infoviews.JavadocView.computeInput(JavadocView.java:894)
+	at org.eclipse.jdt.internal.ui.infoviews.AbstractInfoView$2.run(AbstractInfoView.java:761)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2020-03-23 15:21:13.078
+!MESSAGE DEFAU [in TwoDimArrayClass [in [Working copy] TwoDimArrayClass.java [in package_8 [in src [in Project_8]]]]] does not exist
+!SESSION 2020-03-23 17:03:33.626 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-03-23 17:03:52.902
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-03-24 14:22:43.069 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-03-24 14:23:09.049
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-03-25 16:10:33.536 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-03-25 16:11:00.174
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-04-20 12:05:21.686 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-04-20 12:05:59.024
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-04-22 13:35:21.392 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-04-22 13:35:41.214
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\spy21.DESKTOP-QRVIT73'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:36:35.784
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:36:35.802
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:36:35.960
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:36:35.981
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:36:36.040
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:36:36.057
+!MESSAGE Failure to transfer com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit:worldedit-core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:36:36.133
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:36:36.153
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:core:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/core/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:36:36.338
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:36:36.355
+!MESSAGE Failure to transfer com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata com.sk89q.worldedit.worldedit-libs:bukkit:7.0.0-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/com/sk89q/worldedit/worldedit-libs/bukkit/7.0.0-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:36:36.395
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13.2-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:36:36.411
+!MESSAGE Failure to transfer org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from http://repo.bstats.org/content/repositories/releases/ was cached in the local repository, resolution will not be reattempted until the update interval of bstats-repo has elapsed or updates are forced. Original error: Could not transfer metadata org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT/maven-metadata.xml from/to bstats-repo (http://repo.bstats.org/content/repositories/releases/): Failed to transfer http://repo.bstats.org/content/repositories/releases/org/bukkit/bukkit/1.13.2-R0.1-SNAPSHOT/maven-metadata.xml. Error code 521, 
